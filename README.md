@@ -1,0 +1,1 @@
+This Notebook contains [Project Euler](https://projecteuler.net/) tasks in Python. 
